@@ -1,14 +1,14 @@
 # Detective's Notebook
 
 ## Suspects
-- [ ] The Shopkeeper
-- [ ] The Teacher
-- [ ] The Innkeeper
+- [ ] The Musician
+- [ ] The Clockmaker
+- [ ] The Artist
 
 ## Weapons
+- [ ] Leather Gloves
+- [ ] Magnifying Glass
 - [ ] Iron Poker
-- [ ] Paint Brush
-- [ ] Walking Stick
 
 ## Notes
 *Use this space to record your findings and deductions...*

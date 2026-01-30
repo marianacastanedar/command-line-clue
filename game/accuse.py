@@ -5,10 +5,10 @@ import hashlib
 def get_hash(s):
     return hashlib.md5(s.lower().strip().encode()).hexdigest()
 
-EXPECTED_SUSPECT = "ec188caf6af6e04903cb21626089cad4"
-EXPECTED_WEAPON = "f8d4aa0db72d0320b0f8b34008eb4448"
+EXPECTED_SUSPECT = "82c98443644a3e48e7e1fc9ac6dad4ea"
+EXPECTED_WEAPON = "ff79ae1682fb26bd15986166a4b23698"
 # We accept either the full path or just the room name
-EXPECTED_LOCATION_HASHES = ["2addc4dbe4ba790a519b2acf0616818d", "8d66466a98d464cc0361bb1229fe58fa"]
+EXPECTED_LOCATION_HASHES = ["c283254bb5501eb8364cc276db1fd198", "eb142f9e11e2616820c45fb797169510"]
 
 def print_usage():
     print("Usage: python3 accuse.py \"<Suspect Name>\" \"<Weapon Name>\" \"<Room Name>\"")

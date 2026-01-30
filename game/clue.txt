@@ -1,6 +1,6 @@
 Detective's Initial Report:
 
-I overheard The Clockmaker mentioning something strange they noticed near the dock.
+While making their rounds, The Journalist noticed the cellar door was slightly ajar.
 
 This seems like a good place to start our investigation. Remember to:
 - Use 'cd' to move between locations
