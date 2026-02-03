@@ -13,4 +13,6 @@
 ## Notes
 *Use this space to record your findings and deductions...*
 
-Location of the crime is still unknown - the room must have been empty when it happened...
+
+# el crimen ocurrio en el salon de ciencias
+# el musician estaba en el cellar
