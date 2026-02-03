@@ -1,8 +1,8 @@
 # Detective's Notebook
 
 ## Suspects
-- [ ] The Musician
-- [ ] The Clockmaker
+- [X] The Musician
+- [X] The Clockmaker
 - [ ] The Artist
 
 ## Weapons
@@ -16,3 +16,4 @@
 
 # el crimen ocurrio en el salon de ciencias
 # el musician estaba en el cellar
+# el clockmaker estaba en el town hall\offices\records
